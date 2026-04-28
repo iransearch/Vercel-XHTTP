@@ -1,5 +1,5 @@
 {
-  "name": "iransearch-api",
+  "name": "search-api",
   "version": "1.0.0",
   "description": "Lightweight API service for IranSearch",
   "private": true,
