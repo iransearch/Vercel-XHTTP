@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "iransearch-api",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/index" }
+    {
+      "source": "/api/:path*",
+      "destination": "/api/:path*"
+    }
   ],
   "trailingSlash": false
 }
