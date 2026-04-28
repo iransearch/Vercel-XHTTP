@@ -1,7 +1,7 @@
 {
-  "name": "vercel-xhttp-relay",
+  "name": "iransearch-api",
   "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "description": "Lightweight API service for IranSearch",
   "private": true,
   "license": "MIT",
   "type": "module"
